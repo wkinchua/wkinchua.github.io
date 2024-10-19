@@ -1,6 +1,6 @@
 Website: wkinchua.github.io
 
-My portfolio website
+A portfolio website
 
 
 
