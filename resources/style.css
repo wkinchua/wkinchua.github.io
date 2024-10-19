@@ -172,8 +172,7 @@ h1:hover .anchor-icon, h2:hover .anchor-icon, h3:hover .anchor-icon, h4:hover .a
 #main-logo {
   height:150px;
   width:150px;
-  align-items: center;
-  text-align: center;
+    
 }
 
 .column {
