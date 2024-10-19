@@ -77,7 +77,7 @@ a:hover { text-decoration:underline; }
 header {
   color:#FFF;
   background:url('images/main-alpha.png') no-repeat 15px 50% rgb(8, 39, 218);
-  padding:20px 20px 20px 130px;
+  padding:10px 5px 5px 120px;
   position:relative;
   overflow:hidden;
 }
@@ -172,7 +172,7 @@ h1:hover .anchor-icon, h2:hover .anchor-icon, h3:hover .anchor-icon, h4:hover .a
 #main-logo {
   height:150px;
   width:150px;
-    
+
 }
 
 .column {
@@ -205,6 +205,7 @@ h1:hover .anchor-icon, h2:hover .anchor-icon, h3:hover .anchor-icon, h4:hover .a
   margin:0 0 25px 0;
   float:left;
 }
+
 
 
 /* FOOTER */
